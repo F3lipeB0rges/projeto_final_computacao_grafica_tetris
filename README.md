@@ -1,4 +1,4 @@
-# projeto_final_computacao_grafica_tetris
+# Projeto Final de Computação Gráfica - Jogo Tetris
 
 ### Alunos: 
 ### Felipe Rubens de Sousa Borges
